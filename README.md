@@ -8,7 +8,7 @@ Original author is [Magnus Erik Hvass Pedersen](http://www.hvass-labs.org)
 
 All this was made by a single person who did not receive any money for doing the work.
 If you find it useful then [please donate securely using PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PY9EUURN7GRUW).
-Even a few dollars are appreciated. Thanks!
+Even a few dollars are appreciated. Thank you so much!
 
 ## Introduction
 
